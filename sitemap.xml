@@ -3,23 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://remorsecs.github.io/posts/new.site/</loc>
+    <lastmod>2018-01-30T18:37:50+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://remorsecs.github.io/archives/</loc>
     <lastmod>2018-01-29T17:35:00+08:00</lastmod>
   </url>
   
   <url>
+    <loc>https://remorsecs.github.io/about/</loc>
+    <lastmod>2018-01-29T17:34:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://remorsecs.github.io/categories/blog/</loc>
+    <lastmod>2018-01-30T18:37:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://remorsecs.github.io/categories/</loc>
+    <lastmod>2018-01-30T18:37:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://remorsecs.github.io/categories/git/</loc>
+    <lastmod>2018-01-30T18:37:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://remorsecs.github.io/categories/github/</loc>
+    <lastmod>2018-01-30T18:37:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://remorsecs.github.io/tags/hugo/</loc>
+    <lastmod>2018-01-30T18:37:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://remorsecs.github.io/</loc>
-    <lastmod>2018-01-29T17:35:00+08:00</lastmod>
+    <lastmod>2018-01-30T18:37:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://remorsecs.github.io/posts/</loc>
+    <lastmod>2018-01-30T18:37:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://remorsecs.github.io/tags/</loc>
+    <lastmod>2018-01-30T18:37:50+08:00</lastmod>
     <priority>0</priority>
   </url>
   
