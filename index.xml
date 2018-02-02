@@ -5,7 +5,7 @@
     <link>https://remorsecs.github.io/</link>
     <description>Recent content on Maniac</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-tw</language>
     <lastBuildDate>Tue, 30 Jan 2018 18:37:50 +0800</lastBuildDate>
     
 	<atom:link href="https://remorsecs.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -23,15 +23,6 @@
 這邊參考&lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-user-or-organization-pages&#34;&gt;官網&lt;/a&gt;操作，並作一點修改。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Archives</title>
-      <link>https://remorsecs.github.io/archives/</link>
-      <pubDate>Mon, 29 Jan 2018 17:35:00 +0800</pubDate>
-      
-      <guid>https://remorsecs.github.io/archives/</guid>
-      <description></description>
     </item>
     
   </channel>
