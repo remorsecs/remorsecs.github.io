@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-tw">
 	<head>
 		<meta charset="utf-8">
@@ -23,7 +23,7 @@
 		<meta name="author" content="Maniac">
 		
 		<meta name="generator" content="Hugo 0.31.1" />
-		<title>Maniac</title>
+		<title>Deep Learning &middot; Maniac</title>
 		<link rel="shortcut icon" href="https://remorsecs.github.io/images/favicon.ico">
 		<link rel="stylesheet" href="https://remorsecs.github.io/css/style.css">
 		<link rel="stylesheet" href="https://remorsecs.github.io/css/highlight.css">
@@ -38,8 +38,10 @@
 	</head>
 
 	<body>
-    <nav class="main-nav">
+	<nav class="main-nav">
 	
+	
+		<a href='https://remorsecs.github.io/'> <span class="arrow">←</span>Home</a>
 	
 	<a href='https://remorsecs.github.io/posts'>Archive</a>
 	<a href='https://remorsecs.github.io/tags'>Tags</a>
@@ -50,8 +52,7 @@
 	
 </nav>
 
-
-    <div class="profile">
+	<div class="profile">
     <section id="wrapper">
         <header id="header">
             <a href='https://remorsecs.github.io/about'>
@@ -64,47 +65,23 @@
 </div>
 
 
-    <section id="wrapper" class="home">
-        <ul id="post-list">
-    
-    
-        
-            <li>
-                <aside class="dates">Apr 5</aside>
-                <a href='https://remorsecs.github.io/posts/pytorch.loss.error/'>
-                    PyTorch loss error: don&#39;t compute the gradient w.r.t. targets...
-                    
-                        
-                            <h2>剛剛寫了一段程式碼，在下面這一段出現錯誤： criterion = nn.MSELoss() loss = criterion(target, outputs) 錯誤訊息： AssertionError: nn criterions don&amp;rsquo;t compute the gradient w.r.t. targets - please mark these variables as volatile or not requiring gradients 看半天看不出錯在哪裡，也不是 model 裡面</h2>
-                        
-                    
-                </a>
-            </li>
-        
-    
-    
-        
-            <li>
-                <aside class="dates">Jan 30</aside>
-                <a href='https://remorsecs.github.io/posts/new.site/'>
-                    如何在 GitHub Pages 使用 hugo 建立 blog
-                    
-                        
-                            <h2>使用 user site 目標：使用 &amp;lt;your-github-account&amp;gt;.github.io 當作域名建立 blog，並且上傳原始檔和靜態網頁。 這邊參考官網操作，並作一點修改。
-
-</h2>
-                        
-                    
-                </a>
-            </li>
-        
-    
-</ul>
-
-        <nav id="post-nav">
-    
-</nav>
-        <footer id="footer">
+	<section id="wrapper" class="home">
+		
+		<div class="archive">
+			<h3>2018</h3>
+			<ul>
+					
+					<div class="post-item">
+						<div class="post-time">Apr 5</div>
+						<a href="https://remorsecs.github.io/posts/pytorch.loss.error/" class="post-link">
+							PyTorch loss error: don&#39;t compute the gradient w.r.t. targets...
+						</a>
+					</div>
+					
+			</ul>
+		</div>
+		
+		<footer id="footer">
     
         <div id="social">
 
@@ -137,9 +114,12 @@
     </p>
 </footer>
 
-    </section>
+	</section>
 
-    <script src="https://remorsecs.github.io/js/jquery-2.2.4.min.js"></script>
+	<div class="dd">
+	</div>
+
+	<script src="https://remorsecs.github.io/js/jquery-2.2.4.min.js"></script>
 <script src="https://remorsecs.github.io/js/main.js"></script>
 <script src="https://remorsecs.github.io/js/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -162,5 +142,5 @@ ga('send', 'pageview');
 
 
 
-    </body>
+	</body>
 </html>
