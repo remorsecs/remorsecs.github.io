@@ -13,10 +13,10 @@
     
     <item>
       <title>PyTorch loss error: don&#39;t compute the gradient w.r.t. targets...</title>
-      <link>https://remorsecs.github.io/posts/pytorch.loss.error/</link>
+      <link>https://remorsecs.github.io/posts/2018/04/05/pytorch.loss.error/</link>
       <pubDate>Thu, 05 Apr 2018 21:25:48 +0800</pubDate>
       
-      <guid>https://remorsecs.github.io/posts/pytorch.loss.error/</guid>
+      <guid>https://remorsecs.github.io/posts/2018/04/05/pytorch.loss.error/</guid>
       <description>剛剛寫了一段程式碼，在下面這一段出現錯誤： criterion = nn.MSELoss() loss = criterion(target, outputs) 錯誤訊息： AssertionError: nn criterions don&amp;rsquo;t compute the gradient w.r.t. targets - please mark these variables as volatile or not requiring gradients 看半天看不出錯在哪裡，也不是 model 裡面</description>
     </item>
     
